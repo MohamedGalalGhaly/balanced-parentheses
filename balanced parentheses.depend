@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508159495 source:/home/mohamed-galal/Desktop/Embedded/balanced parentheses/main.c
+	<stdio.h>
+	<stdlib.h>
+
